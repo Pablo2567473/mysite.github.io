@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.aggregator_websites_menu {
+	background-color: #313180;
+}
+
+.g_menu {
+	background-color: #313180;
+}
+
+.g_menu li:hover {
+	background-color:#4a4a9a;
+}
